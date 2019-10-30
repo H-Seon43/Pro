@@ -1,3 +1,14 @@
+/*
+https://www.acmicpc.net/problem/1890 - มกวม
+4
+2 3 3 1
+1 2 1 3
+1 2 3 1
+3 1 1 0
+
+3
+*/
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
